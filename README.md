@@ -1,4 +1,5 @@
-# platzi-exchange
+# Crypto Exchange 
+# By: Gustavo Silva 
 
 ## Project setup
 ```
